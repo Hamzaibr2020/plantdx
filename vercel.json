@@ -1,0 +1,6 @@
+{
+  "crons": [
+    { "path": "/api/cron/daily-advice", "schedule": "0 8 * * *" },
+    { "path": "/api/cron/weather-risk", "schedule": "0 */6 * * *" }
+  ]
+}
