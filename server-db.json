@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": "0e8828bd-3165-4cef-8a56-e6a722228518",
+      "category": "Hastalık",
+      "title": "Domateslerimde yapraklar sararıyor, geç yanıklık mı?",
+      "body": "Antalya'da sera domatesi yetiştiriyorum. Alt yapraklarda kahverengi lekeler var ve hızla yayılıyor. Nem oranı yüksek. Bu geç yanıklık (Phytophthora infestans) belirtisi mi, yoksa erken yanıklık mı? Fotoğraf çekip AI Kamera ile taradım, sonuç %78 güvenle geç yanıklık dedi.",
+      "tags": [
+        "domates",
+        "geç-yanıklık",
+        "sera"
+      ],
+      "authorName": "Mehmet_Antalya",
+      "isExpertVerified": true,
+      "likeCount": 12,
+      "likedBy": [],
+      "createdAt": "2026-06-29T18:07:32.113Z"
+    },
+    {
+      "id": "b530bd01-ec3c-444d-978b-d5c618166388",
+      "category": "İpucu",
+      "title": "Organik kırmızı örümcek mücadelesinde işe yarayan yöntem",
+      "body": "3 yıldır kimyasal kullanmadan bahçe yapıyorum. Kırmızı örümcek için sabunlu su + neem yağı karışımını haftada bir uyguluyorum, yaprak altlarını unutmayın. Ayrıca bitkiler arası nem artırmak (misting) popülasyonu ciddi düşürüyor.",
+      "tags": [
+        "organik",
+        "kırmızı-örümcek",
+        "zararlı"
+      ],
+      "authorName": "BahceciAyse",
+      "isExpertVerified": false,
+      "likeCount": 34,
+      "likedBy": [],
+      "createdAt": "2026-06-22T18:07:32.114Z"
+    },
+    {
+      "id": "51fea27a-0bd6-4cbe-a08d-fe761d5a1b3e",
+      "category": "Soru",
+      "title": "Salçalık biberler için gübreleme aralığı ne olmalı?",
+      "body": "İlk kez salçalık biber ekiyorum, Eskişehir'de açık alanda. Ne sıklıkla azotlu gübre vermeliyim, meyve bağlama döneminde değişiyor mu?",
+      "tags": [
+        "biber",
+        "gübreleme"
+      ],
+      "authorName": "YeniCiftci_Hamza",
+      "isExpertVerified": false,
+      "likeCount": 3,
+      "likedBy": [],
+      "createdAt": "2026-07-03T18:07:32.114Z"
+    },
+    {
+      "id": "b204b62f-1ba3-4c54-91fc-c22bf2bb869b",
+      "category": "Hasat",
+      "title": "Bu yılki üzüm hasadı beklediğimden bereketli oldu",
+      "body": "Külleme ile mücadele için erken ilaçlama yaptık, kükürt bazlı organik ürünle 3 uygulama. Sonuç: geçen yıla göre %40 daha fazla verim. Detaylı programı yorumlarda paylaşırım isteyen olursa.",
+      "tags": [
+        "üzüm",
+        "hasat",
+        "külleme"
+      ],
+      "authorName": "BagciKemal",
+      "isExpertVerified": false,
+      "likeCount": 21,
+      "likedBy": [],
+      "createdAt": "2026-06-14T18:07:32.114Z"
+    },
+    {
+      "id": "4d4004f7-0056-4f29-8fe1-62348c13bc99",
+      "category": "Yardım",
+      "title": "Saksı bitkimin kökleri çürümüş olabilir mi?",
+      "body": "Yaprakları sarardı, toprak sürekli ıslak kalıyordu. Saksıdan çıkardığımda kökler siyahımsı ve yumuşak. Kurtarma şansı var mı yoksa direkt atayım mı?",
+      "tags": [
+        "kök-çürüklüğü",
+        "saksı-bitkisi"
+      ],
+      "authorName": "EvBahcesi_Zeynep",
+      "isExpertVerified": true,
+      "likeCount": 8,
+      "likedBy": [],
+      "createdAt": "2026-07-02T18:07:32.114Z"
+    },
+    {
+      "id": "08ce09d2-6b15-43a2-b22e-c4ac26532f9f",
+      "category": "Sergi",
+      "title": "Balkonumda 6 ay sonra ilk salatalık hasadı 🥒",
+      "body": "Küçük bir balkon bahçesiyle başladım, PlantDX'in sulama hatırlatıcıları sayesinde hiç ihmal etmedim. İlk salatalıklarım geldi, çok mutluyum!",
+      "tags": [
+        "balkon-bahçesi",
+        "salatalık"
+      ],
+      "authorName": "BalkonBahcesi_Fatma",
+      "isExpertVerified": false,
+      "likeCount": 45,
+      "likedBy": [],
+      "createdAt": "2026-07-01T18:07:32.114Z"
+    }
+  ],
+  "comments": [],
+  "regionRisk": [],
+  "users": [
+    {
+      "id": "54c5cbff-b45a-4681-9481-97f64ea85933",
+      "username": "Hamza",
+      "credentials": [],
+      "reputationScore": 0,
+      "expertiseClaim": null,
+      "notificationPrefs": {
+        "province": "Diyarbakır",
+        "crops": [
+          "Tütün",
+          "Pamuk",
+          "Biber",
+          "Domates",
+          "Ayçiçeği"
+        ],
+        "notifyDailyAdvice": true,
+        "notifyWeatherAlerts": true
+      }
+    }
+  ],
+  "pushSubscriptions": [
+    {
+      "username": "Hamza",
+      "endpoint": "https://wns2-par02p.notify.windows.com/w/?token=BQYAAAAwk3Qk69VeMHqf7P7alT%2fun0l6IJkUZ9Gxkygzf%2bhbHNu1jwxci%2bi1O%2bjMRR23N9oAg4Pmcf0VLbk6jJx75D6%2bb1eEX0HQ02jXqKv9%2f%2fL6b3%2bwgKwowhQo7kDDdDvLg%2fujuAII9qwrUOORXqqY08c1w%2fn5bki2IfDAf20DDY8Y0jRHELk8vK3R36RfbVotK5LeOcpuBp6B6k7Bs0bsJa0p0aOr0ztlEjJV50i5Bf%2bktYTQQfNVNAguTKCMC6zfMcnzgTH8nSnPB205U868kx65YtYZTrLz5F%2bhnJhP204kqUt87rIDGG2H4l61f431les%3d",
+      "keys": {
+        "p256dh": "BGPVxRa4hFvqQF0z-p2b02r6WNIzLc1rObx2l5g2oV9PJsiiM0XwyUVwwzIKRGLNkMNbb_AEChEpW-BYCZJsqIM",
+        "auth": "XlJOljBPgUfh4fkwBbzgkQ"
+      },
+      "createdAt": "2026-07-04T18:07:40.434Z"
+    }
+  ]
+}
